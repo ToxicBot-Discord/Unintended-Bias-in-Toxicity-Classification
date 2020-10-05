@@ -3,6 +3,7 @@
 The repo contains notebooks for the Jigsaw Unintend Bias in Toxicity Classification contest hosted on Kaggle
 
 - Kaggle : https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+- Discord Bot Based on this : https://github.com/Sid200026/ToxicBot
 
 ### Score 1
 
