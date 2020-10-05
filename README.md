@@ -2,6 +2,8 @@
 
 The repo contains notebooks for the Jigsaw Unintend Bias in Toxicity Classification contest hosted on Kaggle
 
+- Kaggle : https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+
 ### Score 1
 
 <img src="https://github.com/Sid200026/Unintended-Bias-in-Toxicity-Classification/blob/main/Output/Attempt1.png" />
